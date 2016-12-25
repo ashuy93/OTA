@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <condor>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161216-condor.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161225-condor-xmas.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120693866</RomUrl>
+                description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=457095661767125029</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
